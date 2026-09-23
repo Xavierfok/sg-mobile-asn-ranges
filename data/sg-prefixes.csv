@@ -1,0 +1,1924 @@
+prefix,family,asn,carrier,role,confidence,holder
+27.104.0.0/16,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+27.104.0.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+43.245.104.0/22,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+49.245.0.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+49.245.0.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+49.245.32.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+49.245.64.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+49.245.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+103.1.136.0/22,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+103.1.136.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+103.1.137.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+112.199.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+112.199.128.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+112.199.192.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.192.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.192.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.200.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.224.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.224.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+116.197.232.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+118.189.176.0/20,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+118.189.192.0/20,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+118.189.208.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.0.0/22,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.4.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.16.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.17.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.64.0/20,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.64.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.66.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.68.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.70.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.72.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.74.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.76.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.78.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.96.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.104.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.112.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+119.56.126.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+124.197.64.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+124.246.64.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.0.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.0.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.64.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.128.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.75.192.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.0.0/16,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.0.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.64.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.128.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.128.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.192.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.192.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.192.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.200.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.208.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.216.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.218.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+175.156.224.0/20,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+180.129.0.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+180.129.0.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+180.129.64.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+180.129.96.0/19,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.240.0/21,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.240.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.241.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.242.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.244.0/23,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.244.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.246.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+202.65.247.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400::/32,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:800::/48,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:801::/48,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:5000::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:5002::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:5004::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:5006::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:5008::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:500a::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:500c::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:7000::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:7002::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:7004::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:7006::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:7008::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:700a::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:700c::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:9000::/44,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:9010::/44,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:c804::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:c806::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:c808::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+2401:7400:c80a::/47,ipv6,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
+27.96.96.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+49.128.32.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+64.45.0.0/18,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+64.45.0.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+64.45.32.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+103.10.100.0/22,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+103.14.236.0/22,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+103.24.5.0/24,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+103.24.6.0/24,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+110.92.96.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+110.92.96.0/21,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+110.92.104.0/21,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+110.92.112.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+118.189.0.0/16,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+120.50.32.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.0.0/16,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.0.0/17,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.32.0/22,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.36.0/22,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.128.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+129.126.164.0/24,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+178.160.128.0/18,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+178.160.128.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+178.160.160.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.63.128.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.63.128.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.63.144.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.160.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.160.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.176.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.192.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.192.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.128.208.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+202.172.32.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.123.0.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.123.0.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.123.16.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.211.128.0/19,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.211.128.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+203.211.144.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.0.0/18,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.0.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.2.0/23,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.16.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.32.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+210.193.48.0/20,ipv4,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+2001:fc0::/32,ipv6,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+2401:3d00::/28,ipv6,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
+2401:7400:2fe::/48,ipv6,132915,m1,fixed-broadband,registry-name,MOBILEONELTD-AS-NGNBN - M1 Limited/ Next Generation Broadband Network
+179.239.0.0/16,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.0.0/20,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.0.0/22,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.0.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.1.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.2.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.3.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.4.0/22,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.4.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.5.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.6.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.7.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.10.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.11.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.12.0/23,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.12.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.13.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.64.0/23,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.66.0/23,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.76.0/23,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.76.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.77.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.78.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+210.10.79.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0::/32,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:8000::/40,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:8030::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:8040::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:8050::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:8070::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:9000::/40,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:9030::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:9040::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:9050::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2400:79e0:9070::/44,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2405:800:8000::/34,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2405:800:bffc::/48,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2405:800:bffd::/48,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2405:800:bffe::/48,ipv6,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+2.56.56.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+31.210.22.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+37.0.10.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.60.138.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.60.202.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.60.228.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.60.248.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.5.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.10.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.15.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.22.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.25.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.31.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.46.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.51.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.60.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.65.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.71.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.93.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.94.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.104.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.123.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.129.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.130.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.132.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.136.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.144.0/20,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.160.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.168.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.170.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.172.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.174.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.176.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.178.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.180.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.182.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.184.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.188.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.192.0/20,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.208.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.212.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.216.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.224.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.226.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.228.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.230.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.232.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.234.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.236.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.238.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.240.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.244.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.246.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.248.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+42.61.252.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+45.86.188.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+45.135.4.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+45.144.198.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.5.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.15.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.21.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.63.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.82.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.83.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.93.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.163.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.164.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.178.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.183.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.190.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.201.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.207.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.211.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.212.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.219.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.220.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.222.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.223.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.236.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.237.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.240.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.248.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+58.185.251.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+80.94.89.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+85.202.168.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+85.203.24.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+85.203.35.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+91.103.9.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+91.217.236.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+101.78.127.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+103.186.249.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+111.65.100.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+111.65.102.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+111.65.104.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+111.65.108.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+111.65.112.0/20,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.128.0/17,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.181.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.185.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.195.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.196.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.204.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.206.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.217.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.219.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.222.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.251.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.42.255.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+115.66.56.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.128.0/17,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.137.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.138.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.147.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.154.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.156.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.205.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.206.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.214.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.226.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.229.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.234.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.235.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.238.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.12.243.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+116.15.120.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+117.58.175.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.128.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.130.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.131.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.132.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.134.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.135.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.136.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.138.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.139.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.140.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.141.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.142.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.144.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.145.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.146.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.147.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.149.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.150.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.151.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.152.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.153.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.154.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.156.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.158.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.159.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.160.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.161.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.162.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.163.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.164.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.165.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.166.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.168.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.169.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.170.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.171.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.172.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.173.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.174.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.176.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.178.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.180.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.182.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.183.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.186.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.189.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.200.191.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.0.0/17,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.1.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.2.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.6.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.10.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.11.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.44.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.65.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.68.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.75.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.89.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.95.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.96.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.99.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.128.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.134.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.136.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.178.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.188.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.190.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.192.0/19,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.193.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.201.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.207.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.212.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.217.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.218.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.219.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.226.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.227.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.228.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.229.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.232.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.233.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.234.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.235.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.236.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.237.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.238.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.239.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.240.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.241.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.242.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.243.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.244.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.245.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.246.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.247.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.248.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.252.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.253.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.254.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+118.201.255.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.128.0/17,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.130.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.145.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.148.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.162.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.191.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.197.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.201.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.226.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.242.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.246.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.251.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.73.253.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.74.118.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.0.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.19.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.33.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.36.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.41.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.48.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.53.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+119.75.57.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+121.6.252.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+121.7.13.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.128.0/19,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.133.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.150.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.156.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.157.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.158.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+124.66.159.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.0.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.4.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.5.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.12.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.15.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.20.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.21.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.23.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.28.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.40.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.40.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+128.106.41.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+132.244.212.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+151.192.0.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+159.172.205.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+159.172.245.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.96.64.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.96.65.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.96.216.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.96.217.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.52.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.84.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.92.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.96.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.100.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.106.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.120.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.144.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.156.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.160.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.168.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.184.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+160.213.216.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+161.229.250.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.18.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.19.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.31.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.36.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.49.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.50.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.70.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.71.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.72.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.88.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.91.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.93.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.94.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.95.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.104.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.108.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.109.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.122.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.123.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.238.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.244.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+165.21.246.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+166.120.129.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.0.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.12.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.13.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.17.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.40.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.41.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.42.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.43.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.44.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.45.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.46.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+180.255.47.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+185.114.32.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+192.26.233.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+192.232.67.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+192.232.69.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+193.84.132.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+194.180.111.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+195.238.94.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.8.1.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.40.224.0/19,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.78.48.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.78.49.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.78.52.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.78.55.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.160.224.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.166.40.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.166.99.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.166.118.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.176.192.0/19,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+202.176.201.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.124.0.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.15.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.23.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.44.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.54.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.81.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.87.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.106.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.112.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.115.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.126.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.129.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.166.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.178.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.185.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.186.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.188.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.194.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.204.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.212.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.214.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.218.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.221.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.224.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.227.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.125.236.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.2.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.4.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.7.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.11.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.14.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.19.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.29.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.43.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.52.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.54.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.57.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.60.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.80.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.87.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.92.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.96.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.110.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.112.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.114.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.119.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.138.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.146.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.151.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.159.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.163.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.172.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.178.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.186.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.189.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.192.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.194.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.204.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.216.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.219.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.228.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.234.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.238.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.243.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.126.247.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.0.0/16,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.16.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.23.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.29.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.53.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.61.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.80.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.86.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.89.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.96.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.102.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.110.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.140.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.146.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.211.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.217.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.223.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.232.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.235.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.127.240.0/20,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.169.64.0/18,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.208.144.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+203.208.224.0/19,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+212.124.93.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+219.74.145.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.7.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.8.0/21,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.11.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.12.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.13.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.14.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.15.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+220.255.190.0/23,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20::/32,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:10::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:18::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:3c00::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:4800::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:48fe::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:4c00::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:5000::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:6c00::/38,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:7009::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:7807::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:8405::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:8407::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:8408::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:8409::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:c814::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2001:c20:c818::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:1c00:13::/48,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d801:7f00::/40,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:4110::/45,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:4118::/45,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:4180::/42,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:41c0::/42,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:4218::/45,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:4280::/42,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2400:d802:42c0::/42,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2401:be20::/32,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+2404:5800::/32,ipv6,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
+101.234.31.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+101.234.32.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+101.234.34.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+101.234.40.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+117.18.32.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+117.18.47.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+117.18.48.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+120.72.64.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+120.72.65.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+193.103.148.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+194.180.112.0/23,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.83.218.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.160.224.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.165.128.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.165.148.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.128.0/22,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.128.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.129.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.130.0/23,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.132.0/22,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+202.189.136.0/21,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.127.108.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.128.0/17,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.128.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.141.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.143.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.147.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.150.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.155.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.158.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.160.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.164.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.165.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.173.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.175.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.179.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.184.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.186.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.189.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.191.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.192.0/19,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.197.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.199.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.204.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+203.208.207.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+220.232.57.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10::/32,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10:ff11::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10:ff14::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10:ff1b::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10:ff1c::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2001:c10:ff24::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2404:1000:1::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2404:1000:2::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+2a05:a884:de20::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
+14.100.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+14.100.28.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+14.100.40.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+42.60.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+42.60.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+42.60.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+42.61.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+101.78.64.0/18,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+103.67.168.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+103.67.169.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+115.66.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+115.66.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+115.66.33.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+115.66.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+115.66.228.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+116.14.0.0/15,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+116.14.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+116.14.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+116.14.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+116.15.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+118.200.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+118.201.224.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+119.74.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+119.234.128.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+119.234.160.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+119.234.192.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.6.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.6.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.6.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.7.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.7.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.7.83.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+121.7.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+128.106.64.0/18,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+128.106.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+151.192.64.0/18,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+151.192.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+160.213.32.0/21,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+160.213.56.0/21,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+160.213.128.0/20,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+160.213.224.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.24.0/21,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.24.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.28.0/23,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.64.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.68.0/23,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.75.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.76.0/23,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.78.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.112.0/21,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.124.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.128.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.134.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.135.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.154.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+165.21.155.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+180.255.64.0/18,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+202.166.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+202.166.1.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+202.166.128.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+219.74.0.0/16,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+219.74.211.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+219.75.0.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.0.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.0.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.1.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.2.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.3.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.4.0/22,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.4.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.5.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.6.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.16.0/20,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.32.0/19,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.64.0/18,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.120.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.128.0/17,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.175.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+220.255.221.0/24,ipv4,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d800::/30,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d800::/31,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d800::/32,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801::/32,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4001::/48,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:4f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:5f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:6f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:7c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:9f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:a900::/40,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:ab10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d801:ab80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802::/32,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1::/48,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:1f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:2f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3610::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3680::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3810::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3880::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3910::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3980::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3a10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3a80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3b10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3b80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3c10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:3c80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:4310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:4380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:4410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:4480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9d10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9d80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9e10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9e80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9f10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:9f80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a010::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a080::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a110::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a180::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a210::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a280::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a310::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a380::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a410::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a480::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a510::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a580::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a710::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a780::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:a900::/40,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:ab10::/44,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+2400:d802:ab80::/41,ipv6,9506,singtel,fixed-broadband,registry-name,SINGTEL-FIBRE - Singtel Fibre Broadband
+14.100.128.0/17,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.31.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.32.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.33.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.34.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.35.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.36.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.37.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.38.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.39.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.40.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.41.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.42.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.43.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.44.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.45.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.46.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.47.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.48.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.49.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.50.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.52.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.53.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.54.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.56.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.57.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.58.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.59.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.60.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.61.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.62.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.63.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.64.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.65.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.66.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.67.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.68.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.69.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.70.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.71.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.72.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.73.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.74.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.75.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.76.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.77.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.78.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.79.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.0.0/17,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.1.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.4.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.5.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.6.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.7.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.8.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.9.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.10.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.11.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.16.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.22.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.24.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.30.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.32.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.38.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.40.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.46.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.48.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.52.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.56.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.62.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.64.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.70.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.72.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.78.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.80.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.86.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.88.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.94.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.96.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.102.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.104.0/21,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.110.0/23,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.120.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.121.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.122.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+119.234.123.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+180.255.128.0/17,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+180.255.129.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+202.78.56.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+202.78.57.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+202.78.58.0/24,ipv4,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00::/32,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:2::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:3::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:4::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1a::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1b::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1c::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1e::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1f::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:20::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:30::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:38::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:40::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:48::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:50::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:58::/46,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:64::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:66::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:70::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:78::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:7a::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:80::/43,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:a0::/43,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:f0::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:100::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:110::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:120::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:130::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:140::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:150::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:160::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:170::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:17f::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:180::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:190::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1a0::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1a0::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1b0::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1d0::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:1d8::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:258::/46,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:25c::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:25e::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:27c::/46,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:300::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:310::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:480::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:490::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:500::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:508::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:57c::/46,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:580::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:590::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+23.206.180.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.0.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.53.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.59.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.60.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.61.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.54.62.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+38.46.202.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+38.46.203.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+39.109.128.0/17,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+43.227.228.0/23,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+45.65.0.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.192.0/19,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.196.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.205.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.207.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.208.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.216.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.224.0/19,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+61.8.224.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+101.127.0.0/16,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+101.127.192.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+101.127.224.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+101.127.250.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+103.17.144.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+103.28.208.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+103.149.23.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+103.254.252.0/23,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+103.254.254.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+111.223.64.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+111.223.64.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+113.10.64.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+117.20.128.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.128.0/17,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.128.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.132.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.133.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.134.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.135.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.136.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.137.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.138.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.139.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.140.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.141.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.144.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.146.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.147.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.149.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.161.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.163.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.164.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.173.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.174.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.176.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.177.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.178.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.179.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.180.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.192.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.193.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.194.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.195.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.199.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.200.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.201.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.202.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.210.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.220.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.222.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.223.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.230.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.231.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.232.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.233.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.242.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.243.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.244.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+122.11.250.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.192.0/19,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.204.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.205.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.206.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.207.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.208.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.209.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.214.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.215.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.218.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+124.155.222.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+171.0.0.0/15,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+171.207.0.0/16,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+182.19.128.0/17,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+182.19.252.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+182.55.0.0/16,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+182.55.245.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+183.90.0.0/17,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+183.90.64.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.4.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.10.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.16.0/20,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.16.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.17.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.18.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.19.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.22.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.23.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.24.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.25.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.26.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.27.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.28.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.29.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.32.0/19,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.49.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.53.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.55.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.58.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.59.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.60.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.61.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.62.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+202.156.63.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.0.0/16,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.27.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.30.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.55.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.60.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.76.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.78.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.79.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.82.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.95.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.98.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.105.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.120.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.121.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.127.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.128.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.129.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.130.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.134.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.135.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.136.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.140.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.142.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.153.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.154.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.155.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.175.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.182.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.185.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.186.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.204.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.217.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.221.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.116.240.0/21,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.0.0/16,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.16.0/20,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.22.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.24.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.49.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.52.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.54.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.73.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.97.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.108.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.126.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.127.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.153.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.208.0/21,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.212.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.216.0/21,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.228.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.228.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.229.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.230.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.231.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.232.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.233.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.234.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.235.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.117.242.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.0.0/18,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.10.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.13.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.18.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.19.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.20.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.21.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.22.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.23.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.24.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.25.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.28.0/22,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.29.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.31.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.32.0/20,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.32.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.38.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.39.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.41.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.42.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.44.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.45.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.46.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.48.0/20,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.52.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+203.118.57.0/24,ipv4,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2404:e800:de00::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2404:e800:de00:1::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000::/30,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000::/32,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:2::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:2:109::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:8::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:9::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:b::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:13::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:15::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:17::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:19::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:23::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:29::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:31::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:34::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:35::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:36::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:37::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:38::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:39::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:3a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:3e::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:4e::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:3:4f::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:6::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:1::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:7::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:8::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:b::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:c::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:e::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:f::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:14::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:19::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:1a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:1b::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:1c::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:b::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:c::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:c:100::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:f::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:10::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:6::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1000::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1003::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:100b::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:100f::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1012::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1013::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1014::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1017::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:1018::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:101a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:102a::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:2000::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:2003::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:2005::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:2006::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:11:2008::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:16::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:2a::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:31::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:33::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:34::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:35::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:42::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:4c::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:50::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:53::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:1000::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:1000:100::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:20:6::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:20:75::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:20:76::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:20:78::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:4::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:5::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:6::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:7::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:8::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:9::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:16::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:17::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3001:22:18::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+27.125.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+39.109.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+39.109.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+58.96.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+58.182.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+58.182.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+58.182.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+58.182.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.240.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.241.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.242.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.243.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.244.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.245.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.246.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+101.127.247.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+103.234.105.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+103.234.106.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+103.234.107.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.86.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.86.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.86.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.86.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.87.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.87.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.87.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.87.192.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.87.200.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.88.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.88.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.88.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.88.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.89.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+116.89.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.128.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.130.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.132.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.134.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.136.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.138.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.140.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.142.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.144.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.146.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.148.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.152.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.154.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.156.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.158.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.160.0/19,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.192.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.194.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.196.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.198.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.200.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.202.0/23,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.204.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.208.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.212.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.216.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.220.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.224.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.228.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.232.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.236.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.240.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.248.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.253.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.19.254.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.8.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.16.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.24.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.28.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.32.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.36.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.40.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.48.0/20,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.64.0/19,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.96.0/19,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.128.0/19,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.232.0/22,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.236.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.237.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+182.55.246.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.48.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.49.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.50.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.51.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.52.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.53.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.54.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.55.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.56.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.57.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.58.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.59.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.60.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.61.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.62.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.63.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.80.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+183.90.88.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+202.156.0.0/16,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.186.0.0/16,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.186.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.212.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.212.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.212.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.212.192.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+222.164.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+222.164.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+222.164.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e800::/31,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e800::/32,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e800:3::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e800:103::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1000::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1001::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1003::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1007::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:100b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:100e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1014::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:101a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:101e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:1020::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2000::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2001::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2003::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2007::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:200b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:200e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2014::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:201a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:201e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2404:e801:2020::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1000::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1001::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1002::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1003::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1004::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1005::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1006::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1007::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1008::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1009::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:100f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1040::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1041::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1042::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1043::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1044::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1045::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1046::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1047::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1048::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1049::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:104f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1051::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1052::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1055::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1060::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1061::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1062::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1063::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1064::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1065::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1066::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1067::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1068::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1069::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:106f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1070::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1071::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1072::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1073::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1074::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1075::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1076::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1077::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1078::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1079::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:107a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:107b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1080::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:1081::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2000::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2001::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2002::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2003::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2004::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2005::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2006::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2007::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2008::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2009::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:200f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2040::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2041::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2042::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2043::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2044::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2045::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2046::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2047::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2048::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2049::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:204f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2051::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2052::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2055::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2060::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2061::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2062::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2063::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2064::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2065::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2066::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2067::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2068::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2069::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206c::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206d::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206e::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:206f::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2070::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2071::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2072::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2073::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2074::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2075::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2076::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2077::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2078::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2079::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:207a::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:207b::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2080::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+2406:3003:2081::/48,ipv6,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+27.54.32.0/22,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+27.54.37.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+101.127.200.0/22,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+101.127.204.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+113.10.96.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+113.10.96.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+113.10.104.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+113.10.112.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+113.10.120.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.128.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.130.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.140.0/22,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.144.0/22,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.150.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.152.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.160.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.160.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.168.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.176.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+117.20.184.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.150.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.152.0/21,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.169.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.170.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.172.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.197.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.216.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.217.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.218.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+122.11.219.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.0.64.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.0.128.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.0.160.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.0.192.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.0.224.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.0.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.16.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.32.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.48.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.64.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.80.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.96.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.1.112.0/20,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.207.0.0/18,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.207.128.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.207.160.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.207.192.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+171.207.224.0/19,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.116.107.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.116.116.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.116.119.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.116.181.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.40.0/23,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.246.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.247.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.248.0/22,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.252.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+203.117.253.0/24,ipv4,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:202::/47,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:202::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:203::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:204::/46,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:204::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:205::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:206::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:207::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:208::/47,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:208::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:209::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20a::/47,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20a::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20b::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20c::/46,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20c::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20d::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20e::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:20f::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:210::/47,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:210::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:211::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:212::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:213::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:213:e000::/51,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3000:214::/48,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40::/50,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:700::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:800::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:900::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:a00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:b00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:c00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:d00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:e00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:f00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1000::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1100::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1200::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1300::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1400::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1500::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:1600::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2700::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2800::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2900::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2a00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2b00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2c00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2d00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:40:2e00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:41:8000::/50,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50::/50,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:700::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:800::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:900::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:a00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:b00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:c00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:d00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:e00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:f00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1000::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1100::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1200::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1300::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1400::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1500::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:1600::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2700::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2800::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2900::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2a00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2b00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2c00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2d00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd
+2406:3002:50:2e00::/56,ipv6,138345,starhub,mobile,registry-name,STARHUB-MOBILE2 - StarHub Ltd

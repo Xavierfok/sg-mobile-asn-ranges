@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sg-ip-check"
+version = "0.1.0"
+description = "Is this IP a Singapore mobile IP? Offline lookup of Singtel, M1 and StarHub ranges, with the evidence for each classification."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Xavier Fok" }]
+keywords = ["singapore", "asn", "mobile", "ip", "singtel", "m1", "starhub", "geoip", "cidr"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Internet",
+  "Topic :: System :: Networking",
+]
+
+[project.urls]
+Homepage = "https://github.com/Xavierfok/sg-mobile-asn-ranges"
+Issues = "https://github.com/Xavierfok/sg-mobile-asn-ranges/issues"
+
+[project.scripts]
+sg-ip-check = "sg_ip_check.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+sg_ip_check = ["data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

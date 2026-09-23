@@ -1,0 +1,121 @@
+{
+  "_comment": "Hand-curated. Every entry says WHY it has the role it has. Roles: mobile | fixed-broadband | carrier-core | unknown. Confidence: observed (we saw real mobile traffic exit from this ASN) | registry-name (the RIR/whois record names it as mobile or broadband) | uncertain (we could not confirm the role). The generator only adds announced prefixes; it never changes a role.",
+  "asns": [
+    {
+      "asn": 45143,
+      "carrier": "singtel",
+      "role": "mobile",
+      "confidence": "observed",
+      "evidence": [
+        "RIPEstat as-overview holder: SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore",
+        "Observed 2026-08-26: two Singtel SIM modems egressed as 119.234.8.104 and 119.234.34.225, both originated by AS45143 (RIPEstat network-info)"
+      ]
+    },
+    {
+      "asn": 7473,
+      "carrier": "singtel",
+      "role": "carrier-core",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: SINGTEL-AS-AP - Singapore Telecommunications Ltd",
+        "Singtel's main network ASN. Our Singtel mobile SIMs did NOT egress from it (they egress from AS45143)"
+      ]
+    },
+    {
+      "asn": 3758,
+      "carrier": "singtel",
+      "role": "fixed-broadband",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: SINGNET - SingNet (Singtel's consumer internet service)"
+      ]
+    },
+    {
+      "asn": 9506,
+      "carrier": "singtel",
+      "role": "fixed-broadband",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: SINGTEL-FIBRE - Singtel Fibre Broadband"
+      ]
+    },
+    {
+      "asn": 4773,
+      "carrier": "m1",
+      "role": "mobile",
+      "confidence": "observed",
+      "evidence": [
+        "RIPEstat as-overview holder: MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore",
+        "Observed 2026-09-02: three M1 SIM modems egressed as 119.56.16.102, 119.56.16.96 and 119.56.17.42, all originated by AS4773 (RIPEstat network-info)"
+      ]
+    },
+    {
+      "asn": 17547,
+      "carrier": "m1",
+      "role": "carrier-core",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: M1NET-SG-AP - M1 NET LTD",
+        "Often quoted as 'the M1 ASN', but our M1 mobile SIMs did NOT egress from it (they egress from AS4773)"
+      ]
+    },
+    {
+      "asn": 132915,
+      "carrier": "m1",
+      "role": "fixed-broadband",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: MOBILEONELTD-AS-NGNBN - M1 Limited/ Next Generation Broadband Network (NGNBN = Singapore's national fibre network)"
+      ]
+    },
+    {
+      "asn": 138345,
+      "carrier": "starhub",
+      "role": "mobile",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: STARHUB-MOBILE2 - StarHub Ltd",
+        "APNIC whois descr: 'StarHub Mobile2'",
+        "Not confirmed with a live StarHub SIM by us"
+      ]
+    },
+    {
+      "asn": 9874,
+      "carrier": "starhub",
+      "role": "mobile",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: STARHUB-MOBILE - StarHub Ltd",
+        "RIPEstat reports it as NOT announced (no prefixes) as of 2026-09-23; kept so old references to it resolve"
+      ]
+    },
+    {
+      "asn": 4657,
+      "carrier": "starhub",
+      "role": "carrier-core",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: STARHUB-INTERNET - StarHub Ltd"
+      ]
+    },
+    {
+      "asn": 55430,
+      "carrier": "starhub",
+      "role": "fixed-broadband",
+      "confidence": "registry-name",
+      "evidence": [
+        "RIPEstat as-overview holder: STARHUB-NGNBN - Starhub Ltd (NGNBN = Singapore's national fibre network)"
+      ]
+    },
+    {
+      "asn": 4817,
+      "carrier": "simba",
+      "role": "unknown",
+      "confidence": "uncertain",
+      "evidence": [
+        "RIPEstat as-overview holder: STPL-SG-AP - Simba Telecom Pte Ltd; APNIC whois descr: Simba Telecom Pte Ltd",
+        "Simba runs a Singapore mobile network, but the registry record does not say this ASN carries mobile subscribers and we have not observed Simba SIM egress"
+      ]
+    }
+  ]
+}

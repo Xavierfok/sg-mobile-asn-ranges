@@ -1,0 +1,41 @@
+name: refresh
+
+# Weekly: re-pull announced prefixes from RIPEstat. Commits only when something
+# changed (the generator leaves files untouched otherwise). If the sanity guard
+# trips (a big drop in prefixes, usually a RIPEstat hiccup) the job fails and
+# nothing is committed, so a human can look.
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"   # Mondays 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[test]"
+      - run: python scripts/generate.py
+      - run: pytest -q
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data src/sg_ip_check/data
+          git commit -m "Refresh prefixes from RIPEstat ($(date -u +%Y-%m-%d))"
+          git push
