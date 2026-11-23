@@ -9,7 +9,6 @@ prefix,family,asn,carrier,role,confidence,holder
 49.245.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
 103.1.136.0/22,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
 103.1.136.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
-103.1.137.0/24,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
 112.199.128.0/17,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
 112.199.128.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
 112.199.192.0/18,ipv4,4773,m1,mobile,observed,MOBILEONELTD-AS-AP - MobileOne Ltd. Mobile/Internet Service Provider Singapore
@@ -141,6 +140,7 @@ prefix,family,asn,carrier,role,confidence,holder
 2401:3d00::/28,ipv6,17547,m1,carrier-core,registry-name,M1NET-SG-AP - M1 NET LTD
 2401:7400:2fe::/48,ipv6,132915,m1,fixed-broadband,registry-name,MOBILEONELTD-AS-NGNBN - M1 Limited/ Next Generation Broadband Network
 179.239.0.0/16,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
+179.239.1.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
 210.10.0.0/20,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
 210.10.0.0/22,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
 210.10.0.0/24,ipv4,4817,simba,unknown,uncertain,STPL-SG-AP - Simba Telecom Pte Ltd
@@ -454,7 +454,6 @@ prefix,family,asn,carrier,role,confidence,holder
 159.172.245.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
 160.96.64.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
 160.96.65.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
-160.96.217.0/24,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
 160.213.52.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
 160.213.84.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
 160.213.92.0/22,ipv4,3758,singtel,fixed-broadband,registry-name,SINGNET - SingNet
@@ -700,7 +699,6 @@ prefix,family,asn,carrier,role,confidence,holder
 203.208.207.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
 220.232.57.0/24,ipv4,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
 2001:c10::/32,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
-2001:c10:ff11::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
 2001:c10:ff14::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
 2001:c10:ff1b::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
 2001:c10:ff1c::/48,ipv6,7473,singtel,carrier-core,registry-name,SINGTEL-AS-AP - Singapore Telecommunications Ltd
@@ -1186,15 +1184,14 @@ prefix,family,asn,carrier,role,confidence,holder
 2400:1c00:170::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:170::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:17f::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+2400:1c00:180::/48,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:190::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:1a0::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:1d0::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
-2400:1c00:258::/46,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:25a::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:25c::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:25e::/47,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:300::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
-2400:1c00:310::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:480::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:490::/44,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 2400:1c00:580::/45,ipv6,45143,singtel,mobile,observed,SINGTELMOBILE-AS-AP - SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
@@ -1449,6 +1446,7 @@ prefix,family,asn,carrier,role,confidence,holder
 2406:3000:a:14::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
 2406:3000:a:19::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
 2406:3000:a:1c::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
+2406:3000:a:1e::/64,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
 2406:3000:b::/48,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
 2406:3000:c::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
 2406:3000:c:100::/56,ipv6,4657,starhub,carrier-core,registry-name,STARHUB-INTERNET - StarHub Ltd
@@ -1601,6 +1599,7 @@ prefix,family,asn,carrier,role,confidence,holder
 183.90.63.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
 183.90.80.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
 183.90.88.0/21,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
+218.186.15.0/24,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
 218.186.128.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
 218.212.0.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
 218.212.64.0/18,ipv4,55430,starhub,fixed-broadband,registry-name,STARHUB-NGNBN - Starhub Ltd
